@@ -1,7 +1,0 @@
-__pycache__/
-*.pyc
-*.pdf
-*.docx
-~$*
-quiz_data.json
-aif_questions.json
